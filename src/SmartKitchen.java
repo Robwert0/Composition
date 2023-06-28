@@ -9,18 +9,6 @@ public class SmartKitchen {
         coffeeMaker = new CoffeeMaker();
     }
 
-    public Refrigirator getFridge() {
-        return fridge;
-    }
-
-    public DishWasher getDishwasher() {
-        return dishwasher;
-    }
-
-    public CoffeeMaker getCoffeeMaker() {
-        return coffeeMaker;
-    }
-
     public void setKitchenState(boolean coffeeFlag, boolean fridgeFlag, boolean dishWasherFlag){
         coffeeMaker.setHasWorkToDo(coffeeFlag);
         dishwasher.setHasWorkToDo(dishWasherFlag);
