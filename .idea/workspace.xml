@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0428f238-02a3-43a8-a307-0c01b352d990" name="Changes" comment="A basic project that involve composition.">
-      <change beforePath="$PROJECT_DIR$/src/SmartKitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmartKitchen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="33c03c22-6bb4-4711-9e3a-8ff6ce8610a4" />
+        <option name="url" value="git@github.com:Robwert0/Composition.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2Rpe6H8eJd79HU5A9wPYBWxKAnl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
