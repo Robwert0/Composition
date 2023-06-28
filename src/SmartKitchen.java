@@ -1,7 +1,7 @@
 public class SmartKitchen {
-    private Refrigirator fridge;
-    private DishWasher dishwasher;
-    private CoffeeMaker coffeeMaker;
+    private final Refrigirator fridge;
+    private final DishWasher dishwasher;
+    private final CoffeeMaker coffeeMaker;
 
     public SmartKitchen(){
         fridge = new Refrigirator();
